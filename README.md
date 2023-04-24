@@ -4,7 +4,7 @@
 - 📫 sonicmephit@gmail.com
 
 - Play my first GlobalGameJam entry here: [https://lisiasty-pazurek.github.io/IAmRoot/](https://lisiasty-pazurek.github.io/IAmRoot/)
-- Check the game for lvl 99 Jam: [https://lisiasty-pazurek.github.io/Stressed-out/](https://github.com/Lisiasty-Pazurek/Stressed-out)
+- Check the game for lvl 99 Jam: [https://lisiasty-pazurek.github.io/Stressed-out/](https://lisiasty-pazurek.github.io/Stressed-out/)
 
 <!---
 Lisiasty-Pazurek/Lisiasty-Pazurek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
